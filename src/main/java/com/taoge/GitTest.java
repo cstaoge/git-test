@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("hello git4444!!");
         System.out.println("master test!!");
         System.out.println("push test!!");
+        System.out.println("taoge commit!!");
     }
 }
