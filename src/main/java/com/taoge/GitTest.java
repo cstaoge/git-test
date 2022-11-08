@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("master test!!");
         System.out.println("push test!!");
         System.out.println("taoge commit!!");
+        System.out.println("gitee 项目更新!!");
     }
 }
